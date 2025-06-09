@@ -143,3 +143,11 @@ cython_debug/
 # pycharm files
 .idea
 tmp
+.venv_persona/Scripts/ddgs.exe
+.venv_persona/Scripts/httpx.exe
+.venv_persona/Scripts/jsondiff
+.venv_persona/Scripts/jsonpatch
+.venv_persona/Scripts/jsonpointer
+.venv_persona/Scripts/langchain-server.exe
+.venv_persona/Scripts/langsmith.exe
+.venv_persona/Scripts/openai.exe
